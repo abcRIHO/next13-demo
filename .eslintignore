@@ -1,0 +1,13 @@
+# dependencies
+**/node_modules/**
+# production
+/lib/**
+# misc
+/util/**
+
+# files
+*.config.*
+*.setup.*
+*.d.ts
+**/*.stories.tsx
+**/*.test.tsx
